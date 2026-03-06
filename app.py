@@ -27,16 +27,16 @@ from flask import Flask, jsonify, request
 
 # Your Free Fire Guild / Clan numeric ID
 # Example: GUILD_ID = "3161100693"
-GUILD_ID = "YOUR_GUILD_ID_HERE"
+GUILD_ID = "3048840679"
 
 # Your Guild / Clan display name
-GUILD_NAME = "YOUR_GUILD_NAME_HERE"
+GUILD_NAME = "ᴾᴿᴵᴹᴱ⚡Yᴀᴅᴀᴠs"
 
 # Bot accounts — list of {"uid": "...", "password": "..."}
 # You can also leave this empty and edit accs.txt instead.
 # The password here is the Garena guest-token password (hex string).
 ACCOUNTS = [
-    # {"uid": "4224256496", "password": "BY_XRSUPER-WBKQMILV9-XRRRR"},
+    # {"uid": "4356405620", "password": "4D969CF89C99524D8A24DC0F34182C68C33C61F1B86B69CA5A4A263F1DD2C42A"},
     # {"uid": "4224256579", "password": "BY_XRSUPER-GZEJNCIXA-XRRRR"},
 ]
 
