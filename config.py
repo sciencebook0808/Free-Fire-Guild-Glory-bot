@@ -22,13 +22,13 @@ The guild/clan chat channel ID is derived from GUILD_ID automatically.
 #  ★  PASTE YOUR GUILD ID HERE  ★
 #  (the numeric ID shown in your Free Fire guild page)
 # ═══════════════════════════════════════════════
-GUILD_ID: str = "YOUR_GUILD_ID_HERE"
+GUILD_ID: str = "3048840649"
 # Example: GUILD_ID = "3161100693"
 
 # ═══════════════════════════════════════════════
 #  ★  PASTE YOUR GUILD NAME HERE  ★
 # ═══════════════════════════════════════════════
-GUILD_NAME: str = "YOUR_GUILD_NAME_HERE"
+GUILD_NAME: str = "ᴾᴿᴵᴹᴱ⚡Yᴀᴅᴀᴠs"
 # Example: GUILD_NAME = "XR-GLORY"
 
 # ═══════════════════════════════════════════════
@@ -43,8 +43,9 @@ GUILD_NAME: str = "YOUR_GUILD_NAME_HERE"
 # ═══════════════════════════════════════════════
 BOT_ACCOUNTS = [
     {
-        "uid": "YOUR_BOT_UID_1",
-        "password": "YOUR_BOT_PASSWORD_1"
+        "uid": "4356405620",
+        "password": "4D969CF89C99524D8A24DC0F34182C68C33C61F1B86B69CA5A4A263F1DD2C42A"
+    
     },
     # Add more accounts below:
     # {
