@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/XR-GLORY/(.*)",
+      "src": "/(.*)",
       "dest": "app.py"
     }
   ]
